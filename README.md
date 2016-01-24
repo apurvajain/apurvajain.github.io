@@ -1,2 +1,2 @@
 # apurvajain.github.io
-Hosted here : apurvajain.in
+Hosted here : http://apurvajain.in
