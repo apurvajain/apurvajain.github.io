@@ -1009,24 +1009,24 @@ a.download-btn span {
 }
 
 .education-info .year {
-  width: 20%;
+  width: 30%;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
 
 .education-info .degree {
-  width: 25%;
+  width: 35%;
   background: #323232;
   color: #fff;
 }
 
 .education-info .details {
-  width: 51.45%;
+  width: 30%;
   margin-right: 0px;
 }
 
 .education-info .details div {
-  text-align: left;
+  text-align: center;
 }
 
 
