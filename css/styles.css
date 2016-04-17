@@ -1330,7 +1330,11 @@ a.download-btn span {
   .videoBG,
   .videoBG_wrapper {
     width: 100% !important;
-    background-color:rgba(000,000,000,.5);
+    /*background-color:rgba(000,000,000,.5);*/
+    background-image: url("../img/parallax-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
 
 
